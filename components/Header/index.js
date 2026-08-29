@@ -74,7 +74,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   {showResume && (
                     <Button
                       onClick={() =>
-                        window.open("mailto:jesusfornieles@gmail.com")
+                        window.open("mailto:jesusfornielesmunoz@gmail.com")
                       }
                     >
                       Resume
@@ -82,7 +82,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button asChild>
-                  <a href="mailto:jesusfornieles@gmail.com?subject=Contact%20from%20Your%20Portfolio&body=Hello%2C%0A%0AI%20would%20like%20to%20get%20in%20touch%20regarding%20your%20work.%0A%0ABest%20regards%2C%0A"
+                  <a href="mailto:jesusfornielesmunoz@gmail.com?subject=Contact%20from%20Your%20Portfolio&body=Hello%2C%0A%0AI%20would%20like%20to%20get%20in%20touch%20regarding%20your%20work.%0A%0ABest%20regards%2C%0A"
                   target="_blank"
                   rel="noopener noreferrer">
                       Contact
@@ -105,7 +105,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
                   )}
 
                   <Button
-                    onClick={() => window.open("mailto:jesusfornieles@gmail.com")}
+                    onClick={() => window.open("mailto:jesusfornielesmunoz@gmail.com")}
                   >
                     Contact
                   </Button>
@@ -140,7 +140,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
             )}
 
             <Button asChild>
-            <a href="mailto:jesusfornieles@gmail.com?subject=Contact%20from%20Portfolio&body=Hello%2C%0A%0AI%20would%20like%20to%20get%20in%20touch%20regarding%20your%20work.%0A%0ABest%20regards%2C%0A"
+            <a href="mailto:jesusfornielesmunoz@gmail.com?subject=Contact%20from%20Portfolio&body=Hello%2C%0A%0AI%20would%20like%20to%20get%20in%20touch%20regarding%20your%20work.%0A%0ABest%20regards%2C%0A"
             target="_blank"
             rel="noopener noreferrer">
                 Contact
@@ -171,7 +171,7 @@ const Header = ({ handleWorkScroll, handleAboutScroll, isBlog }) => {
               </Button>
             )}
 
-            <Button onClick={() => window.open("mailto:jesusfornieles@gmail.com")}>
+            <Button onClick={() => window.open("mailto:jesusfornielesmunoz@gmail.com")}>
               Contact
             </Button>
 
